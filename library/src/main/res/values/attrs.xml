@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ViewRatingBar">
+        <attr name="starClickable" format="boolean"/>
+        <attr name="starCount" format="integer"/>
+        <attr name="starSize" format="dimension"/>
+        <attr name="starSpace" format="dimension"/>
+        <attr name="starImageEmpty" format="reference"/>
+        <attr name="starImageFill" format="reference"/>
+    </declare-styleable>
+</resources>
