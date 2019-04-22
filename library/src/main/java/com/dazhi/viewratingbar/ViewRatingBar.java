@@ -84,7 +84,7 @@ public class ViewRatingBar extends LinearLayout {
      * =======================================
      */
     public interface OnRatingListener {
-        void onRating(View currView, int RatingScore);
+        void onRating(View currView, int intCurrStarCount);
     }
 
 
